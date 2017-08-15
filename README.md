@@ -1,7 +1,7 @@
 Q&A
 
 1. Name three pros and three cons of Ruby on Rails.
-	Pros- Test Automation, Productivity, Libraries/Gems
+	<br/>Pros- Test Automation, Productivity, Libraries/Gems
 	Cons - Runtime Speed, Boot Speed, Multithreading
 
 2. In what type of web application you wouldn't use Ruby on Rails?
