@@ -1,3 +1,14 @@
+To deploy the app <br/>
+bundle install<br/>
+rails db:create<br/>
+rails db:migrate<br/>
+rails db:seed<br/>
+<br/>
+To run tests
+rails test <br/>
+<br/>
+
+
 Q&A
 
 1. Name three pros and three cons of Ruby on Rails.
