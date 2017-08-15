@@ -5,7 +5,7 @@ rails db:migrate<br/>
 rails db:seed<br/>
 <br/>
 To run tests
-rails test <br/>
+<br/>rails test <br/>
 <br/>
 
 
